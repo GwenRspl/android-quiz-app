@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="margin_top_button">24dp</dimen>
+    <dimen name="margin_bottom_question_title">48dp</dimen>
+    <dimen name="margin_bottom_result">8dp</dimen>
+    <dimen name="margin_result_button">4dp</dimen>
+    <dimen name="question_title_size">20sp</dimen>
+    <dimen name="body_text_size">14sp</dimen>
+    <dimen name="score_size">48sp</dimen>
+    <dimen name="description_size">16sp</dimen>
+
+</resources>

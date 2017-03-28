@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/LandBaseLayout"
+    tools:context="com.example.android.quizzapp.MainActivity">
+
+    <LinearLayout
+        style="@style/LandLayout">
+
+        <ImageView
+            style="@style/Title"
+            android:src="@drawable/dishonored"
+            android:layout_width="wrap_content"/>
+
+        <ImageView
+            style="@style/Image"
+            android:src="@drawable/mask"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/LandLayout">
+
+        <Button
+            style="@style/LandStartButton"
+            android:onClick="nextView"
+            android:text="@string/start_quiz"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

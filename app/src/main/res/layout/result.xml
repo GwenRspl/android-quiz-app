@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.quizzapp.MainActivity"
+    style="@style/QuestionBaseLayout">
+
+    <LinearLayout
+        style="@style/ResultLayout">
+
+        <TextView
+            style="@style/ResultTitle"
+            android:text="@string/result"/>
+
+        <TextView
+            android:id="@+id/score"
+            style="@style/Score"/>
+
+        <TextView
+            android:id="@+id/comment"
+            style="@style/ResultDescriptionTitle"/>
+
+        <TextView
+            android:id="@+id/description"
+            style="@style/ResultDescription"/>
+
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        style="@style/ResultButtonsLayout">
+
+        <Button
+            style="@style/ResultButtons"
+            android:text="@string/take_again"
+            android:onClick="nextView"/>
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

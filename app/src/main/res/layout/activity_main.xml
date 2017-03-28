@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/BaseLayout"
+    tools:context="com.example.android.quizzapp.MainActivity">
+
+    <ImageView
+        style="@style/Title"
+        android:src="@drawable/dishonored"/>
+
+    <ImageView
+        style="@style/Image"
+        android:src="@drawable/mask"/>
+
+    <Button
+        style="@style/StartButton"
+        android:onClick="nextView"
+        android:text="@string/start_quiz"/>
+
+</LinearLayout>

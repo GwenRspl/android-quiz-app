@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                style="@style/QuestionBaseLayout">
+
+    <TextView
+        android:id="@+id/question_title"
+        style="@style/QuestionTitle"
+        android:text="@string/title_question_6"/>
+
+    <TextView
+        android:id="@+id/question_text"
+        style="@style/Question"
+        android:text="@string/question_6"/>
+
+    <EditText
+        android:id="@+id/answer"
+        style="@style/EditTextStyle"/>
+
+    <Button
+        style="@style/NextButton"
+        android:text="@string/next"
+        android:onClick="nextView"/>
+
+</RelativeLayout>

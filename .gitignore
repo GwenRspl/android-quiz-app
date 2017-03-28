@@ -1,0 +1,28 @@
+# Intellij
+*.iml
+.idea/
+
+# Gradle files
+.gradle/
+build/
+gradle/
+
+# Generated files
+bin/
+gen/
+out/
+
+# Java class files
+*.class
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+/local.properties
+.DS_Store
+/captures
+.externalNativeBuild

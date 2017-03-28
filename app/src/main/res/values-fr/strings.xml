@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dishonored Quiz</string>
+    <string name="answer_10_1">Vous pouvez transporter plus de cadavres</string>
+    <string name="answer_10_2">Vous contrôlez les rats blancs plus longtemps</string>
+    <string name="answer_10_3">Vous ne serez pas repéré par les gardes</string>
+    <string name="answer_1_1">Possession</string>
+    <string name="answer_1_2">Clignement</string>
+    <string name="answer_1_3">Rafale</string>
+    <string name="answer_2_1">Humains</string>
+    <string name="answer_2_2">Machines</string>
+    <string name="answer_2_3">Poisssons</string>
+    <string name="answer_2_4">Rats</string>
+    <string name="answer_2_5">Oiseaux</string>
+    <string name="answer_2_6">Insectes</string>
+    <string name="answer_3_1">Vous mourez</string>
+    <string name="answer_3_2">Vous réapparaissez derrière l\'ennemi</string>
+    <string name="answer_3_3">Vous contrôlez cet ennemi</string>
+    <string name="answer_7_1">Mur foudroyant</string>
+    <string name="answer_7_2">Porte foudroyante</string>
+    <string name="answer_7_3">Portail foudroyant</string>
+    <string name="answer_9_1">Elle ne peut pas mourir</string>
+    <string name="answer_9_2">Elle nous tue</string>
+    <string name="answer_9_3">Elle se transforme en nuée de rats</string>
+    <string name="average">Passable</string>
+    <string name="average_text">Tu as fait quelques erreurs, tu ne connais pas très bien le jeu mais tu as fait de ton mieux avec tes connaissances.</string>
+    <string name="bad">Médiocre</string>
+    <string name="bad_text">Apparement tu ne connais pas du tout le jeu. Reviens faire ce quiz après y avoir joué un peu.</string>
+    <string name="excellent_text">Bravo ! Tu connais Dishonored par coeur !</string>
+    <string name="good">Bien</string>
+    <string name="good_text">C\'est bien. Tu as fait quelques erreurs mais tu connais la base.</string>
+    <string name="next">Suivant</string>
+    <string name="question_1">Quel est le premier pouvoir donné par l\'Outsider ?</string>
+    <string name="question_10">Quel effet a le charme d\'os \"Hôte accueillant\" ?</string>
+    <string name="question_2">Donnez 3 éléments contrôlables avec le pouvoir \"possession\" !</string>
+    <string name="question_3">Que se passe-t-il si un ennemi écrase le rat que vous contrôlez ?</string>
+    <string name="question_4">Combien de runes coûte l\'amélioration du pouvoir \"Clignement\" ?</string>
+    <string name="question_5">Comment se nomme le maitre assassin qui a tué l\'impératrice ?</string>
+    <string name="question_6">Combien existe-t-il de sœurs Boyle ?</string>
+    <string name="question_7">Comment se nomme le système de défense qui empêche les civils et les rats de passer en les électrocutant ?</string>
+    <string name="question_8">Combien de types de carreaux d\'arbalète peut-on trouver ?</string>
+    <string name="question_9">Que se passe-t-il si on tue Mamie Chiffon ?</string>
+    <string name="result">Résultat</string>
+    <string name="start_quiz">Commencer le quiz</string>
+    <string name="take_again">Refaire le quiz</string>
+</resources>

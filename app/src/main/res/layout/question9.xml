@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                style="@style/QuestionBaseLayout">
+
+    <TextView
+        android:id="@+id/question_title"
+        style="@style/QuestionTitle"
+        android:text="@string/title_question_9"/>
+
+    <TextView
+        android:id="@+id/question_text"
+        style="@style/Question"
+        android:text="@string/question_9"/>
+
+    <RadioGroup
+        style="@style/AnswersLayout">
+
+        <RadioButton
+            android:id="@+id/answer1"
+            style="@style/RadioAnswer"
+            android:text="@string/answer_9_1"/>
+
+        <RadioButton
+            android:id="@+id/answer2"
+            style="@style/RadioAnswer"
+            android:text="@string/answer_9_2"/>
+
+        <RadioButton
+            android:id="@+id/rightAnswer"
+            style="@style/RadioAnswer"
+            android:text="@string/answer_9_3"/>
+
+    </RadioGroup>
+
+    <Button
+        style="@style/NextButton"
+        android:text="@string/next"
+        android:onClick="nextView"/>
+
+</RelativeLayout>

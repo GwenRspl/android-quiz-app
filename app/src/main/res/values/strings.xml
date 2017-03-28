@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Dishonored Quiz</string>
+    <string name="start_quiz">start quiz</string>
+    <string name="question_1">What is the first power given by the Outsider ?</string>
+    <string name="answer_1_1">Possession</string>
+    <string name="answer_1_2">Blink</string>
+    <string name="answer_1_3">Windblast</string>
+    <string name="question_2">Which one of these can be controlled with the power \"possession\" ?
+        (multiple answers)</string>
+    <string name="answer_2_1">Humans</string>
+    <string name="answer_2_2">Machines</string>
+    <string name="answer_2_3">Fish</string>
+    <string name="answer_2_4">Rats</string>
+    <string name="answer_2_5">Birds</string>
+    <string name="answer_2_6">Insects</string>
+    <string name="question_3">What happens if an enemy step on the rat you are controlling?</string>
+    <string name="answer_3_1">You die</string>
+    <string name="answer_3_2">You reappear behind the enemy</string>
+    <string name="answer_3_3">You control the enemy</string>
+    <string name="question_4">How many runes do you need to upgrade Blink ?</string>
+    <string name="answer_4_1" translatable="false">1</string>
+    <string name="answer_4_2" translatable="false">2</string>
+    <string name="answer_4_3" translatable="false">3</string>
+    <string name="question_5">What is the name of the assassin of the Empress Jessamine Kaldwin?</string>
+    <string name="question_6">How many Boyle sisters are there ?</string>
+    <string name="question_7">What is the name of the electrified entryways ?</string>
+    <string name="answer_7_1">Wall of Light</string>
+    <string name="answer_7_2">Arc Pylon</string>
+    <string name="answer_7_3">Lightning Door</string>
+    <string name="question_8">How many type of arrows can you find in the game ?</string>
+    <string name="answer_8_1" translatable="false">2</string>
+    <string name="answer_8_2" translatable="false">3</string>
+    <string name="answer_8_3" translatable="false">5</string>
+    <string name="question_9">What happens if you kill Granny Rags ?</string>
+    <string name="answer_9_1">She cannot die</string>
+    <string name="answer_9_2">She kills you</string>
+    <string name="answer_9_3">Her body will turn into a pack of plague rats</string>
+    <string name="question_10">What is the effect of the bone charm \"Welcoming Host\" ?</string>
+    <string name="answer_10_1">You can transport more bodies</string>
+    <string name="answer_10_2">You can control white rats longer</string>
+    <string name="answer_10_3">You can control humans longer</string>
+    <string name="title_question_1" translatable="false">question 1</string>
+    <string name="next">next</string>
+    <string name="title_question_2" translatable="false">question 2</string>
+    <string name="title_question_3" translatable="false">question 3</string>
+    <string name="title_question_4" translatable="false">question 4</string>
+    <string name="title_question_5" translatable="false">question 5</string>
+    <string name="title_question_6" translatable="false">question 6</string>
+    <string name="title_question_7" translatable="false">question 7</string>
+    <string name="title_question_8" translatable="false">question 8</string>
+    <string name="title_question_9" translatable="false">question 9</string>
+    <string name="title_question_10" translatable="false">question 10</string>
+    <string name="take_again">Take quiz again</string>
+    <string name="result">Result</string>
+    <string name="excellent" translatable="false">Excellent !</string>
+    <string name="good">Good</string>
+    <string name="average">Sufficient</string>
+    <string name="bad">Fail</string>
+    <string name="excellent_text">Perfect score ! You really know Dishonored, congratulations !</string>
+    <string name="good_text">That\'s nice ! You made a few mistakes but you still know the basics</string>
+    <string name="average_text">You made some mistakes, you may not know the game very well but you did your best.</string>
+    <string name="bad_text">Apparently you don\'t know the game at all. Come back after playing it a bit.</string>
+
+</resources>
